@@ -8,7 +8,7 @@ With the first one, we generate the files "C(r)_T1.txt" and "C(r)_T2.txt" and wi
 
 For build and executing these .cpp files in your terminal you just have to write (in the case of, for example, the first one):
 
-Build: Oblig2_1D_SM.cpp -o Oblig2_1D_SM.exe -larmadillo
+Build: Oblig2_1D_SM.cpp -o Oblig2_1D_SM.exe -larmadillo //
 Run: ./Oblig2_1D_SM.exe
 
 
