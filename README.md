@@ -16,3 +16,6 @@ Run: ./Oblig2_1D_SM.exe
 Then, with the files "Oblig2_1D_SM.py" and "Oblig2_2D_SM.py" we produce all the plots stored in the folder "Plots". We produce "C(r)_T1.pdf" and "C(r)_T2.pdf" with the first of the mentioned python files and we obtain the rest of the plots using the second mentioned python file.
 
 
+For executing the .py files in your terminal, you just have to write (in the case of, for example, the first one):
+
+Run: python3 Oblig2_1D_SM.py
